@@ -1,0 +1,14 @@
+{
+  "resourceName": "s346eac8b8",
+  "policyUUID": "46eac8b8",
+  "bucketName": "uploadfilesd3ef82cf717c4deab366fa8bb034163a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
