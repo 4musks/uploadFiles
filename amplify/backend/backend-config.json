@@ -1,6 +1,6 @@
 {
   "auth": {
-    "uploadfiles42c8cfc8": {
+    "uploadImages42c8cfc8": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
